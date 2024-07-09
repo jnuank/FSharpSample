@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0UweSYG6VyQ=",
+  "success": true,
+  "projectFilePath": "/home/jun/source/jnuank/FSharpSample/src/Library/Library.fsproj",
+  "expectedPackageFiles": [
+    "/home/jun/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
