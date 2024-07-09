@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0UweSYG6VyQ=",
+  "dgSpecHash": "5XXaVqwSRRBWsJQFxBSnWJHiF4e92Gbwz8ZQuKLEW62q5Dub7HlYKeyihkUNh1mGj8TNo/HEUByEL0JxuNpnrA==",
   "success": true,
   "projectFilePath": "/home/jun/source/jnuank/FSharpSample/src/Library/Library.fsproj",
   "expectedPackageFiles": [
-    "/home/jun/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512"
+    "/home/jun/.nuget/packages/fsharp.core/8.0.102/fsharp.core.8.0.102.nupkg.sha512"
   ],
   "logs": []
 }

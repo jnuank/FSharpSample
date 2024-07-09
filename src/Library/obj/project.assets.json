@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "FSharp.Core/8.0.300": {
+      "FSharp.Core/8.0.102": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/FSharp.Core.dll": {
@@ -59,15 +59,14 @@
     }
   },
   "libraries": {
-    "FSharp.Core/8.0.300": {
-      "sha512": "Jv44fV7TNglyMku89lQcA4Q6mFKLyHb2bs1Yb72nvSVc+cHplEnoZ4XQUaaTLJGUTx/iMqcrkYGtaLzkkIhpaA==",
+    "FSharp.Core/8.0.102": {
+      "sha512": "CYfsb3hPz/GkbaCXSSBnUSq1zp4vZ99efurXpojqMz9y6g6ydS8MlP6MRsW03wp1wVzEhkwPJ3qyJzoRQToRPg==",
       "type": "package",
-      "path": "fsharp.core/8.0.300",
+      "path": "fsharp.core/8.0.102",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "Icon.png",
-        "fsharp.core.8.0.300.nupkg.sha512",
+        "fsharp.core.8.0.102.nupkg.sha512",
         "fsharp.core.nuspec",
         "lib/netstandard2.0/FSharp.Core.dll",
         "lib/netstandard2.0/FSharp.Core.xml",
@@ -104,7 +103,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "FSharp.Core >= 8.0.300"
+      "FSharp.Core >= 8.0.102"
     ]
   },
   "packageFolders": {
@@ -126,7 +125,7 @@
         "net8.0"
       ],
       "sources": {
-        "/home/jun/.dotnet/sdk/8.0.300/FSharp/library-packs": {},
+        "/usr/lib/dotnet/sdk/8.0.105/FSharp/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -134,11 +133,6 @@
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -148,7 +142,7 @@
           "FSharp.Core": {
             "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
             "target": "Package",
-            "version": "[8.0.300, )",
+            "version": "[8.0.102, )",
             "generatePathProperty": true
           }
         },
@@ -168,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/jun/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
